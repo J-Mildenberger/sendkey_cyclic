@@ -25,7 +25,7 @@ You will have to give PowerShell the permission to execute scripts.
 In order of doing so, execute the following command inside of the shell window
 
 > *Set-ExecutionPolicy Unrestricted*  
-and press  
+> [ENTER]  
 > [Y]  
 > [ENTER]  
 
