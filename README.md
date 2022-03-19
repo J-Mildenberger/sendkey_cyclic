@@ -2,7 +2,7 @@
 This project is about the automated (cyclic) generation of keyboard inputs to keep the 'alive' or 'online'  status in different services like Skype or Microsoft Teams.   
 
 ## How to use the .ps script
-Right click on file -> execute as PowerShell Script
+**Right click on file -> execute as PowerShell Script**
 
 Further Information about the functionality of the script:
 
