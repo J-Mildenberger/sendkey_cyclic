@@ -5,5 +5,5 @@ This project is about the automated (cyclic) generation of keyboard inputs to ke
 Right click on file -> excute as PowerShell Script
 
 ## Executing a .ps script for the 1st time in Win10 
-Press Y 
-\nAnother change
+Press Y      
+\Another change
