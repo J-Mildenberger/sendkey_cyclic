@@ -10,7 +10,7 @@ Further Information about the functionality of the script:
 > on some keyboards also causing a blinking LED.  
 > It's possible to simply replace any string "{NUMLOCK}" in this file by other  
 > keyboard references like {CAPSLOCK},{UP},{+}  
-> Table for refernces @https://devguru.com/content/technologies/wsh/wshshell-sendkeys.html  
+> Table for refernces [title](https://devguru.com/content/technologies/wsh/wshshell-sendkeys.html)  
 > To Exit this script, press [STRG] + [c]   
 
 **To Exit this script, press [STRG] + [c]**
@@ -28,3 +28,7 @@ In order of doing so, execute the following command inside of the shell window
 and press  
 > [Y]  
 > [ENTER]  
+
+
+
+Enjoy! :smiley:
