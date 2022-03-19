@@ -6,4 +6,4 @@ Right click on file -> excute as PowerShell Script
 
 ## Executing a .ps script for the 1st time in Win10 
 Press Y 
-Another change
+\nAnother change
