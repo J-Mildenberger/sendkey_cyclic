@@ -6,10 +6,9 @@
 # Key Table @https://devguru.com/content/technologies/wsh/wshshell-sendkeys.html
 # To Exit this script, simply press [STRG] + [c] 
 #
-#
 
 param($sleep = 1) # seconds
-$interval_information = 10 # loops
+$interval_information = 25 # loops
 
 Clear-Host
 
@@ -20,7 +19,7 @@ $stopwatch
 try {
     $stopwatch = [system.diagnostics.stopwatch]::StartNew()
 } catch {
-   Write-Host "Couldn't start stopwatch."
+   Write-Host "...Couldn't start stopwatch..."
 }
 
 Write-Host "Now executing CAPSLOCK-toggle"
@@ -46,3 +45,4 @@ while ( $true )
         Write-Host "Elapsed time: " $stopwatch.Elapsed.ToString('dd\.hh\:mm\:ss')
     }
 }
+

@@ -1,17 +1,15 @@
 # Push-Keys
 This project is about the automated (cyclic) generation of keyboard inputs to keep the 'alive' or 'online'  status in different services like Skype or Microsoft Teams.   
 
-## How to use the .ps script
+Operating system: Windows10
+## Usage of the .ps1 script
 **Right click on file -> execute as PowerShell Script**
 
 Further Information about the functionality of the script:
 
-> Toggling "NUMLOCK" will use the Numpad Lock-key and therefore   
-> on some keyboards also causing a blinking LED.  
-> It's possible to simply replace any string "{NUMLOCK}" in this file by other  
-> keyboard references like {CAPSLOCK},{UP},{+}  
-> Table for refernces [title](https://devguru.com/content/technologies/wsh/wshshell-sendkeys.html)  
-> To Exit this script, press [STRG] + [c]   
+Toggle of "CAPSLOCK" will on some keyboards also cause a blinking LED.  
+It's possible to simply replace any string "{NUMLOCK}" in this file by other keyboard references e.g.{CAPSLOCK},{UP},{+}. [Table for references](https://devguru.com/content/technologies/wsh/wshshell-sendkeys.html)     
+To Exit this script, press [STRG] + [c]   
 
 **To Exit this script, press [STRG] + [c]**
 
