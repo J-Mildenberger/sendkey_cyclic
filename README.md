@@ -22,13 +22,12 @@ When you are executing a PowerShell script for the first time you may encounter 
 > *.... cannot be loaded because running scripts is disabled on this system.*   
 
 You will have to give PowerShell the permission to execute scripts.  
-In order of doing so, execute the following command inside of the shell window
+In order of doing so, at first execute Windows PowerShell Application with admin rights and secondly type the following command inside of the shell window. 
 
 > *Set-ExecutionPolicy Unrestricted*  
 
+confirm command by pressing [Enter]
 Press [Y] for *Yes* 
- 
-
-
+confirm by pressing [Enter]
 
 Enjoy! :smiley:
