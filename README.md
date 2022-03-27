@@ -3,7 +3,7 @@ This project is about the automated (cyclic) generation of keyboard inputs to ke
 
 Operating system: Windows10
 ![demo_of_script.PNG](https://github.com/J-Mildenberger/sendkey_cyclic/blob/main/images/demo_of_script.PNG?raw=true)
-
+<img src="https://github.com/J-Mildenberger/sendkey_cyclic/blob/main/images/demo_of_script.PNG?raw=true" width=50% height=50%>
 ## Usage of the .ps1 script
 **Right click on file -> execute as PowerShell Script**
 
