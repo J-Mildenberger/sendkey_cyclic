@@ -8,7 +8,7 @@
 #
 
 param($sleep = 1) # seconds
-$interval_information = 25 # loops
+$interval_information = 10 # loops
 
 Clear-Host
 
