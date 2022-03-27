@@ -2,6 +2,8 @@
 This project is about the automated (cyclic) generation of keyboard inputs to keep the 'alive' or 'online'  status in different services like Skype or Microsoft Teams.   
 
 Operating system: Windows10
+![demo_of_script.PNG](https://github.com/J-Mildenberger/sendkey_cyclic/blob/main/images/demo_of_script.PNG?raw=true)
+
 ## Usage of the .ps1 script
 **Right click on file -> execute as PowerShell Script**
 
