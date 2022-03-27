@@ -32,7 +32,7 @@ Then execute the following command inside of the shell window
 ![set_execution_policy_powershell.PNG](https://github.com/J-Mildenberger/sendkey_cyclic/blob/main/images/set_execution_policy_powershell.PNG?raw=true)
 
 
-Press [Enter] to confirm the command
+Press [Enter] to confirm the command   
 Type [Y] for *Yes*  
 Press [Enter] to confirm 
 
