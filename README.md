@@ -23,8 +23,7 @@ You have to give PowerShell permission to execute scripts.
 In order of doing so, open Windows PowerShell with admin rights.    
 E.g. by searching "Windows Powershell" in the search bar --> right click on App symbol --> execute as admin.
 
-
-
+![Powershell_as_admin.png](https://github.com/J-Mildenberger/sendkey_cyclic/blob/main/images/Powershell_as_admin.png?raw=true)
 
 Then execute the following command inside of the shell window
 
