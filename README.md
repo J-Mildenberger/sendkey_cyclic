@@ -29,8 +29,11 @@ Then execute the following command inside of the shell window
 
 > *Set-ExecutionPolicy Unrestricted*  
 
+![set_execution_policy_powershell.PNG](https://github.com/J-Mildenberger/sendkey_cyclic/blob/main/images/set_execution_policy_powershell.PNG?raw=true)
+
+
 Press [Enter] to confirm the command
-Write [Y] for *Yes*  
+Type [Y] for *Yes*  
 Press [Enter] to confirm 
 
 
