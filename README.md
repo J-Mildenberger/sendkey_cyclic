@@ -14,7 +14,7 @@ To Exit this script, press [STRG] + [c]
 **To Exit this script, press [STRG] + [c]**
 
 
-### Executing a Windows Powershell script for the 1st time
+## Executing a Windows Powershell script for the 1st time
 When you are executing a PowerShell script for the first time you may encounter the following error:
 
 > *.... cannot be loaded because running scripts is disabled on this system.*   
