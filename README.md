@@ -1,5 +1,5 @@
 # sendkey_cyclic
-This project is about the automated (cyclic) generation of keyboard inputs to keep the 'alive' or 'online'  status in different services like Skype or Microsoft Teams.   
+This project is about the automated (cyclic) generation of keyboard inputs to keep a 'online' status in Skype.   
 
 Operating system: Windows10
 
